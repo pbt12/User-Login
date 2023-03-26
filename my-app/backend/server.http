@@ -1,0 +1,13 @@
+post http://localhost:5000/register/submit
+Content-Type: application/json
+
+{
+    
+    "userName" : "userName",
+    "firstName" : "firstName",
+    "lastName" :"lastName",
+    "phoneNumber":7893761674,
+    "password" : "password",
+    "email":"email"
+    
+}
